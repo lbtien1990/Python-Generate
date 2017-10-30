@@ -1,7 +1,7 @@
-Không|Ko|Khong|Khog|K|không|ko|khong|k|KHÔNG|KHONG|KO|Hông|Hok|HÔNG|HOK
+không|hông|khong|ko
 
-Biết|Bít|Bit|biết|bít|bit|biet|bt|BIẾT|BIET|BÍT|BIT|BT|BIK|Bik
+biết|biet|bít|bit
 
-Nhớ|NHỚ|nhớ|nho|NHO
+nhớ|nho
 
-Rõ|RÕ|rõ|ro|RO
+rõ|ro

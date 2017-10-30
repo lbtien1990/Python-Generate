@@ -1,3 +1,4 @@
+# Python 3 format
 import codecs
 
 fileInPath = './_input/input.txt'
